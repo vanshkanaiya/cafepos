@@ -1,6 +1,8 @@
-# cafepos
+# CafePOS
 
-A new Flutter project.
+> **Status: In progress**
+
+CafePOS is a Flutter point-of-sale application for cafés. The project is currently under active development.
 
 ## Getting Started
 
